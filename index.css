@@ -1,0 +1,22 @@
+.background{
+    position: absolute;
+    left: 0px;
+    width: 100%;
+}
+.logo{
+    position: absolute;
+    left: 30%;
+    top: 40px;
+    width: 8%;
+    
+}
+body{
+    display: inline;
+   
+}
+.h2{
+    position: absolute;
+    left: 40%;
+    font-size: 80px;
+    font-family: 'Times New Roman', Times, serif;
+}
