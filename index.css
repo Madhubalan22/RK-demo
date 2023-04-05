@@ -6,7 +6,7 @@
 }
 .logo{
     position: absolute;
-    left: 30%;
+    left: 25%;
     top: 40px;
     width: 8%;
     
@@ -17,7 +17,7 @@ body{
 }
 .h2{
     position: absolute;
-    left: 40%;
+    left: 35%;
     top: 40px;
     font-size: 300%;
     font-family: 'Times New Roman', Times, serif;
